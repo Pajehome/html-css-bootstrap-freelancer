@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav_tb{
+    width: 100%;
+    height: 100px;
+}
+.bg_nav{
+    background-color: #2C3E50;
+}
+.bg_jumbotron{
+    background-color: #1ABC9C;
+    width: 100%;
+}
+.jumbotron{
+    width: 100%;
+    height: calc(100vh - 100px);
+}
+.line{
+    height: 3px;
+    width: 60px;
+    background-color: black;
+}
+.fa-solid{
+    font-size: 25px;
+}
+p{
+    font-size: 1.3rem;
+}
+footer{
+    background-color: #3A546D;
+    width: 100%;
+    height: 50vh;
+}
